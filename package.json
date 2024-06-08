@@ -1,0 +1,17 @@
+{
+  "name": "aidomesticate",
+  "version": "1.0.0",
+  "description": "AIDomesticate (AID) is a modular and extensible framework designed to simplify the creation and management of AI agents using LangChain and LLMs. The framework is built to support various maturity phases of AI agent development, ensuring a gradual and controlled transition from human-in-the-loop systems to fully autonomous operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "langchain": "^0.2.5",
+    "openai": "^4.49.1"
+  }
+}

@@ -22,9 +22,27 @@ AIDomesticate (AID) is a modular and extensible framework designed to simplify t
     •	OpenAI GPT-4 API key
     •	LangChain library
 
-## Contributing
+# Contributing to AIDomesticate
 
-We welcome contributions! Please read the contributing guidelines before submitting a pull request.
+We welcome contributions to the AIDomesticate project! Please follow these guidelines to ensure a smooth process.
+
+## How to Contribute
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix.
+3. Make your changes.
+4. Ensure that your code follows the project's coding standards.
+5. Commit your changes with a clear message.
+6. Push your branch to your forked repository.
+7. Open a pull request against the `main` branch.
+
+## Reporting Issues
+
+If you encounter any issues, please open an issue on GitHub with a detailed description and steps to reproduce the problem.
+
+## Code of Conduct
+
+Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
