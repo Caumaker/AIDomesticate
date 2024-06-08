@@ -14,7 +14,7 @@ AIDomesticate (AID) is a modular and extensible framework designed to simplify t
 
 ## Getting Started
 
-    •	Woking on...
+Please refer to the [Getting Started](https://caumaker.github.io/AIDomesticate/getting_started) section of the documentation for detailed instructions.
 
 ## Prerequisites
 
