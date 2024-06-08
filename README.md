@@ -42,7 +42,7 @@ If you encounter any issues, please open an issue on GitHub with a detailed desc
 
 ## Code of Conduct
 
-Please read and adhere to our [Code of Conduct](../main.docs/CODE_OF_CONDUCT.md).
+Please read and adhere to our [Code of Conduct](../main/docs/CODE_OF_CONDUCT.md).
 
 ## License
 
