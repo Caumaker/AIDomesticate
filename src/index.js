@@ -1,14 +1,16 @@
-class AITrainer {
-    constructor() {
-        // Initialization code
-    }
+/**
+ * AIDomesticate - Main entry point for the AI agent framework.
+ * 
+ * Created by: Cauê Somensi
+ * Date: 2024/06/08
+ */
 
-    train(model, data) {
-        // Implement training logic here
-        console.log('Training model with data...');
-    }
-}
+const Planner = require('./planner');
+const Maker = require('./maker');
+const Supervisor = require('./supervisor');
 
 module.exports = {
-    AITrainer
+    Planner,
+    Maker,
+    Supervisor,
 };
